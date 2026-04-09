@@ -170,7 +170,7 @@ import pandas as pd
 df = pd.read_csv("media/table1_photographs.CSV",sep=";")
 ```
 
-```python editable=true slideshow={"slide_type": ""} tags=["data-table", "table-photographs-*"]
+```python editable=true slideshow={"slide_type": ""} tags=["data-table", "table-photographs-*"] jdh={"module": "object", "object": {"source": [“LABEL TO ADD"]}}
 display(df)
 ```
 
@@ -271,14 +271,14 @@ In order to link the original photograph to a digital three-dimensional referenc
 <!-- #endregion -->
 
 <!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
-[Download: 3D model of London street scene, 1984 (Blender)](https://github.com/Roemer-1978/Doing_Individualism/blob/main/media/Barkshire1984_Modell.blend)
+[Download: 3D model of London street scene, 1984 (Blender)](https://github.com/jdh-observer/5JBwcM6XDP5R/blob/main/media/Barkshire1984_Modell.blend)
 <!-- #endregion -->
 
 <!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
 The resulting 3D-model from our pilot study can now be used to determine any physical distances that occurred in the original situation at 7 Gresham Street on 17 July 1984, including the interpersonal distances between the people in the queue. Interpersonal distances were read from the 3D-model in Blender using visible parts of faces and shoes as anchor points between various pairs of persons in the queue. The analysis shows that one of the men in the queue kept a distance of 40 centimeters from the man in front of him. The only woman in the queue even maintained a distance of 76 centimetres from the man in front of her. Compared to the patterns found in pictures from the 1940s and 1950s, the interpersonal distances in this case appear to be significantly larger and thus seem to corroborate our hypothesis.
 <!-- #endregion -->
 
-```python editable=true slideshow={"slide_type": ""} tags=["hermeneutics"]
+```python editable=true slideshow={"slide_type": ""} tags=["hermeneutics", "figure-blender-*"]
 from IPython.display import Image 
 metadata={
     "jdh": {
@@ -349,11 +349,11 @@ While photogrammetry has been frequently used in the digital humanities for thre
 Historicizing social micro-practices contributes to diachronic perspectives in historical praxeology and social theory. By introducing a historical perspective on personal space, the article also expands existing interdisciplinary research on proxemic behaviour. Methodologically, it could transform research on interpersonal distance behaviour in the social sciences that has previously relied almost exclusively on artificial social experiments. In contrast to questionnaires, laboratories, or virtual reality environments, photogrammetry offers a way of obtaining new data on interpersonal distance patterns in real-life situations.
 <!-- #endregion -->
 
-<!-- #region editable=true slideshow={"slide_type": ""} -->
+<!-- #region editable=true slideshow={"slide_type": ""} tags=["hidden"]-->
 # Bibliography
 <!-- #endregion -->
 
-```python editable=true slideshow={"slide_type": ""}
+```python editable=true slideshow={"slide_type": ""} tags=["hidden"]
 <!-- BIBLIOGRAPHY START -->
 <div class="csl-bib-body">
   <div class="csl-entry"><i id="zotero|23314830/MG6B8F75"></i>Givon-Benjio, N. <i>et al.</i> (2024) ‘Perception of interpersonal distance and social distancing before and during COVID-19 pandemic’, <i>Scientific Reports</i>, 14(1), p. 4568. doi: <a href="https://doi.org/10.1038/s41598-024-55218-y">10.1038/s41598-024-55218-y</a>.</div>
