@@ -171,7 +171,7 @@ import pandas as pd
 df = pd.read_csv("media/table1_photographs.CSV",sep=";")
 ```
 
-```python editable=true slideshow={"slide_type": ""} tags=["data-table", "table-photographs-*"] jdh={"module": "object", "object": {"source": ["LABEL TO ADD"]}}
+```python editable=true slideshow={"slide_type": ""} tags=["data-table", "table-photographs-*"] jdh={"module": "object", "object": {"source": ["Selection of historical photographs showing queues in European cities in the twentieth and twenty-first centuries"]}}
 display(df)
 ```
 
