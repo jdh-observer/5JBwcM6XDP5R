@@ -1,6 +1,7 @@
 ---
 jupyter:
   jupytext:
+    formats: ipynb,md
     text_representation:
       extension: .md
       format_name: markdown
@@ -349,11 +350,11 @@ While photogrammetry has been frequently used in the digital humanities for thre
 Historicizing social micro-practices contributes to diachronic perspectives in historical praxeology and social theory. By introducing a historical perspective on personal space, the article also expands existing interdisciplinary research on proxemic behaviour. Methodologically, it could transform research on interpersonal distance behaviour in the social sciences that has previously relied almost exclusively on artificial social experiments. In contrast to questionnaires, laboratories, or virtual reality environments, photogrammetry offers a way of obtaining new data on interpersonal distance patterns in real-life situations.
 <!-- #endregion -->
 
-<!-- #region editable=true slideshow={"slide_type": ""} tags=["hidden"]-->
+<!-- #region editable=true slideshow={"slide_type": ""} -->
 # Bibliography
 <!-- #endregion -->
 
-```python editable=true slideshow={"slide_type": ""} tags=["hidden"]
+```python editable=true slideshow={"slide_type": ""}
 <!-- BIBLIOGRAPHY START -->
 <div class="csl-bib-body">
   <div class="csl-entry"><i id="zotero|23314830/MG6B8F75"></i>Givon-Benjio, N. <i>et al.</i> (2024) ‘Perception of interpersonal distance and social distancing before and during COVID-19 pandemic’, <i>Scientific Reports</i>, 14(1), p. 4568. doi: <a href="https://doi.org/10.1038/s41598-024-55218-y">10.1038/s41598-024-55218-y</a>.</div>
