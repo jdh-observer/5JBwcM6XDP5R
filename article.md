@@ -350,16 +350,4 @@ While photogrammetry has been frequently used in the digital humanities for thre
 Historicizing social micro-practices contributes to diachronic perspectives in historical praxeology and social theory. By introducing a historical perspective on personal space, the article also expands existing interdisciplinary research on proxemic behaviour. Methodologically, it could transform research on interpersonal distance behaviour in the social sciences that has previously relied almost exclusively on artificial social experiments. In contrast to questionnaires, laboratories, or virtual reality environments, photogrammetry offers a way of obtaining new data on interpersonal distance patterns in real-life situations.
 <!-- #endregion -->
 
-<!-- #region editable=true slideshow={"slide_type": ""} -->
-# Bibliography
-<!-- #endregion -->
 
-```python editable=true slideshow={"slide_type": ""}
-<!-- BIBLIOGRAPHY START -->
-<div class="csl-bib-body">
-  <div class="csl-entry"><i id="zotero|23314830/MG6B8F75"></i>Givon-Benjio, N. <i>et al.</i> (2024) ‘Perception of interpersonal distance and social distancing before and during COVID-19 pandemic’, <i>Scientific Reports</i>, 14(1), p. 4568. doi: <a href="https://doi.org/10.1038/s41598-024-55218-y">10.1038/s41598-024-55218-y</a>.</div>
-  <div class="csl-entry"><i id="zotero|23314830/D3ZL6LXX"></i>Hall, E. T. <i>et al.</i> (1968) ‘Proxemics [and Comments and Replies]’, <i>Current Anthropology</i>, 9(2/3), pp. 83–108. doi: <a href="https://doi.org/10.1086/200975">10.1086/200975</a>.</div>
-  <div class="csl-entry"><i id="zotero|23314830/ZF97IFLI"></i>Hall, E. T. (1990) <i>The silent language</i>. New York London Toronto [etc.]: Anchor books Doubleday.</div>
-</div>
-<!-- BIBLIOGRAPHY END -->
-```
